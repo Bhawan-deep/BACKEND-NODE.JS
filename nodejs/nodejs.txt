@@ -1,0 +1,4 @@
+write node command in terminal to enter in node
+use .help for various functions 
+use touch command to add file in terminal
+write node with file name to access the files from terminal
